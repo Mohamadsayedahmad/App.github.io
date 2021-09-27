@@ -68,7 +68,7 @@
     background-color: #ff0;
 }
 
-#navlinks ul li .active
+#navlinks ul li.active
 {
     background-color: #333;
 }
